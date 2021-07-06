@@ -1,0 +1,578 @@
+[
+  {
+    "name": "Easter Egg",
+    "link": "/wiki/Easter_Egg",
+    "buy": "500 1",
+    "harvest": [
+      "1",
+      "",
+      "18"
+    ],
+    "time": "4h",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "type": "Eggs",
+    "profit": [
+      {
+        "level": "Name",
+        "standard": "Easter Eggs",
+        "flat": "Easter Bunny"
+      },
+      {
+        "level": "Quest",
+        "standard": "Harvest 100 ",
+        "flat": "Harvest 500 "
+      },
+      {
+        "level": "Group",
+        "standard": "Decorations",
+        "flat": "Decorations"
+      }
+    ]
+  },
+  {
+    "name": "Cursed Pumpkin",
+    "link": "/wiki/Cursed_Pumpkin",
+    "buy": "500",
+    "harvest": [
+      "1",
+      "",
+      "30"
+    ],
+    "time": "8h",
+    "seasons": [
+      "Fall"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "Name",
+        "standard": "Pumpkin Tag",
+        "flat": "Pumpkin Lanterns"
+      },
+      {
+        "level": "Quest",
+        "standard": "Harvest 100 ",
+        "flat": "Harvest 1,000 "
+      },
+      {
+        "level": "Group",
+        "standard": "Pet Tag",
+        "flat": "Fences"
+      }
+    ]
+  },
+  {
+    "name": "Candy Cane",
+    "link": "/wiki/Candy_Cane",
+    "buy": "350 1",
+    "harvest": [
+      "1",
+      "",
+      "13"
+    ],
+    "time": "3h",
+    "seasons": [
+      "Fall",
+      "Winter"
+    ],
+    "type": "link=https://farmtogether",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "1",
+        "flat": ""
+      },
+      {
+        "level": "25",
+        "standard": "1",
+        "flat": ""
+      },
+      {
+        "level": "50",
+        "standard": "2",
+        "flat": ""
+      },
+      {
+        "level": "75",
+        "standard": "2",
+        "flat": ""
+      },
+      {
+        "level": "100",
+        "standard": "2",
+        "flat": ""
+      },
+      {
+        "level": "125",
+        "standard": "3",
+        "flat": ""
+      },
+      {
+        "level": "150",
+        "standard": "3",
+        "flat": ""
+      },
+      {
+        "level": "175",
+        "standard": "4",
+        "flat": ""
+      },
+      {
+        "level": "200",
+        "standard": "4",
+        "flat": ""
+      },
+      {
+        "level": "225",
+        "standard": "4",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "5",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Shooting Stars",
+    "link": "/wiki/Shooting_Stars",
+    "buy": "400 1",
+    "harvest": [
+      "1",
+      "",
+      "4"
+    ],
+    "time": "1h",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "type": "link=https://farmtogether",
+    "profit": [
+      {
+        "level": "Name",
+        "standard": "Shiny Star Glasses",
+        "flat": "Planetarium Projector"
+      },
+      {
+        "level": "Quest",
+        "standard": "Harvest 250 ",
+        "flat": "Harvest 500 "
+      },
+      {
+        "level": "Group",
+        "standard": "Customization",
+        "flat": "House Decorations"
+      }
+    ]
+  },
+  {
+    "name": "Cotton Candy",
+    "link": "/wiki/Cotton_Candy",
+    "buy": "",
+    "harvest": [
+      "1"
+    ],
+    "time": "30m",
+    "seasons": [],
+    "type": "link=https://farmtogether",
+    "profit": [
+      {
+        "level": "Name",
+        "standard": "Pink Heart Pet Tag",
+        "flat": "Unicorn"
+      },
+      {
+        "level": "Quest",
+        "standard": "Harvest 100 ",
+        "flat": "Harvest 250 "
+      },
+      {
+        "level": "Group",
+        "standard": "Pets",
+        "flat": "Animals"
+      }
+    ]
+  },
+  {
+    "name": "Lucky Clover",
+    "link": "/wiki/Lucky_Clover",
+    "buy": "",
+    "harvest": [
+      ""
+    ],
+    "time": "",
+    "seasons": [],
+    "type": "link=https://farmtogether",
+    "profit": [
+      {
+        "level": "Name",
+        "standard": "Pink Foxglove",
+        "flat": "Lucky Hat"
+      },
+      {
+        "level": "Quest",
+        "standard": "Harvest 250 ",
+        "flat": "Harvest 750 "
+      },
+      {
+        "level": "Group",
+        "standard": "Flowers",
+        "flat": "Customization"
+      }
+    ]
+  },
+  {
+    "name": "Flower Bouquets",
+    "link": "/wiki/Flower_Bouquets",
+    "buy": "500 1",
+    "harvest": [
+      ""
+    ],
+    "time": "3h",
+    "seasons": [
+      "Spring",
+      "Fall"
+    ],
+    "type": "Flowers",
+    "profit": [
+      {
+        "level": "Name",
+        "standard": "Sunny Pet Charm",
+        "flat": "Flowering Cherry Tree"
+      },
+      {
+        "level": "Quest",
+        "standard": "Harvest 250 ",
+        "flat": "Harvest 1,000 "
+      },
+      {
+        "level": "Group",
+        "standard": "Pets",
+        "flat": "Trees"
+      }
+    ]
+  },
+  {
+    "name": "Fireworks",
+    "link": "/wiki/Fireworks",
+    "buy": "500 1",
+    "harvest": [
+      "2",
+      "",
+      "13"
+    ],
+    "time": "2h",
+    "seasons": [
+      "Spring",
+      "Summer"
+    ],
+    "type": "link=https://farmtogether",
+    "profit": [
+      {
+        "level": "Name",
+        "standard": "Large Bonfire",
+        "flat": "Solstice Hat"
+      },
+      {
+        "level": "Quest",
+        "standard": "Harvest 250 ",
+        "flat": "Harvest 1000 "
+      },
+      {
+        "level": "Group",
+        "standard": "Decorations",
+        "flat": "Customization"
+      }
+    ]
+  },
+  {
+    "name": "Dinosaur Fossil",
+    "link": "/wiki/Dinosaur_Fossil",
+    "buy": "1.00K 1",
+    "harvest": [
+      "1",
+      "",
+      "16"
+    ],
+    "time": "3h",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "type": "link=https://farmtogether",
+    "profit": [
+      {
+        "level": "Name",
+        "standard": "Bone Arch",
+        "flat": "Explorer Hat"
+      },
+      {
+        "level": "Quest",
+        "standard": "Harvest 125 ",
+        "flat": "Harvest 250 "
+      },
+      {
+        "level": "Group",
+        "standard": "Fences",
+        "flat": "Customization"
+      }
+    ]
+  },
+  {
+    "name": "Toy Pinwheels",
+    "link": "/wiki/Toy_Pinwheels",
+    "buy": "300",
+    "harvest": [
+      "1",
+      "",
+      "2"
+    ],
+    "time": "20m",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "type": "link=https://farmtogether",
+    "profit": [
+      {
+        "level": "Name",
+        "standard": "Surfboard",
+        "flat": "Dandelion"
+      },
+      {
+        "level": "Quest",
+        "standard": "Harvest 400 ",
+        "flat": "Harvest 1500 "
+      },
+      {
+        "level": "Group",
+        "standard": "Decorations",
+        "flat": "Flowers"
+      }
+    ]
+  },
+  {
+    "name": "Musical Root",
+    "link": "/wiki/Musical_Root",
+    "buy": "800 1",
+    "harvest": [
+      "1",
+      "",
+      "18"
+    ],
+    "time": "3h",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "type": "link=https://farmtogether",
+    "profit": [
+      {
+        "level": "Name",
+        "standard": "Xylophone Bars",
+        "flat": "Chestnut Tree"
+      },
+      {
+        "level": "Quest",
+        "standard": "Harvest 300 ",
+        "flat": "Harvest 900 "
+      },
+      {
+        "level": "Group",
+        "standard": "Roads",
+        "flat": "Trees"
+      }
+    ]
+  },
+  {
+    "name": "Magic Crystal",
+    "link": "/wiki/Magic_Crystal",
+    "buy": "500 1",
+    "harvest": [
+      "1",
+      "",
+      "11"
+    ],
+    "time": "1h 30m",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "type": "link=https://farmtogether",
+    "profit": [
+      {
+        "level": "Name",
+        "standard": "Flying Candles",
+        "flat": "Owl"
+      },
+      {
+        "level": "Quest",
+        "standard": "Harvest 400 ",
+        "flat": "Harvest 1200 "
+      },
+      {
+        "level": "Group",
+        "standard": "Fences",
+        "flat": "Pets"
+      }
+    ]
+  },
+  {
+    "name": "Party Candles",
+    "link": "/wiki/Party_Candles",
+    "buy": "1.00K 2",
+    "harvest": [
+      "1",
+      "",
+      "22"
+    ],
+    "time": "4h",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "type": "link=https://farmtogether",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "25",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "50",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "75",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "100",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "125",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "150",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "175",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "200",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "225",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Fern",
+    "link": "/wiki/Fern",
+    "buy": 0,
+    "harvest": 0,
+    "time": 0,
+    "seasons": [],
+    "type": "",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "25",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "50",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "75",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "100",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "125",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "150",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "175",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "200",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "225",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  }
+]

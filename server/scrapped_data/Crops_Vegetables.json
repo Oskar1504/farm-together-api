@@ -1,0 +1,3031 @@
+[
+  {
+    "name": "Carrot",
+    "link": "/wiki/Carrot",
+    "buy": "35",
+    "harvest": [
+      "60",
+      "2"
+    ],
+    "time": "20m",
+    "seasons": [
+      "Spring",
+      "Fall",
+      "Winter"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "60",
+        "flat": "57"
+      },
+      {
+        "level": "25",
+        "standard": "65",
+        "flat": "61"
+      },
+      {
+        "level": "50",
+        "standard": "71",
+        "flat": "66"
+      },
+      {
+        "level": "75",
+        "standard": "77",
+        "flat": "70"
+      },
+      {
+        "level": "100",
+        "standard": "82",
+        "flat": "75"
+      },
+      {
+        "level": "125",
+        "standard": "88",
+        "flat": "79"
+      },
+      {
+        "level": "150",
+        "standard": "94",
+        "flat": "84"
+      },
+      {
+        "level": "175",
+        "standard": "99",
+        "flat": "88"
+      },
+      {
+        "level": "200",
+        "standard": "105",
+        "flat": "93"
+      },
+      {
+        "level": "225",
+        "standard": "",
+        "flat": "97"
+      },
+      {
+        "level": "250",
+        "standard": "",
+        "flat": "102"
+      }
+    ]
+  },
+  {
+    "name": "Lettuce",
+    "link": "/wiki/Lettuce",
+    "buy": "15",
+    "harvest": [
+      "30",
+      "1"
+    ],
+    "time": "10m",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "30",
+        "flat": "29"
+      },
+      {
+        "level": "25",
+        "standard": "32",
+        "flat": "30"
+      },
+      {
+        "level": "50",
+        "standard": "34",
+        "flat": "32"
+      },
+      {
+        "level": "75",
+        "standard": "36",
+        "flat": "33"
+      },
+      {
+        "level": "100",
+        "standard": "37",
+        "flat": "35"
+      },
+      {
+        "level": "125",
+        "standard": "39",
+        "flat": "36"
+      },
+      {
+        "level": "150",
+        "standard": "41",
+        "flat": "38"
+      },
+      {
+        "level": "175",
+        "standard": "43",
+        "flat": "39"
+      },
+      {
+        "level": "200",
+        "standard": "45",
+        "flat": "41"
+      },
+      {
+        "level": "225",
+        "standard": "47",
+        "flat": "42"
+      },
+      {
+        "level": "250",
+        "standard": "49",
+        "flat": "44"
+      }
+    ]
+  },
+  {
+    "name": "Cabbage",
+    "link": "/wiki/Cabbage",
+    "buy": "100",
+    "harvest": [
+      "140",
+      "5"
+    ],
+    "time": "45m",
+    "seasons": [
+      "Spring",
+      "Summer"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "140",
+        "flat": "134"
+      },
+      {
+        "level": "25",
+        "standard": "151",
+        "flat": "143"
+      },
+      {
+        "level": "50",
+        "standard": "162",
+        "flat": "152"
+      },
+      {
+        "level": "75",
+        "standard": "173",
+        "flat": "161"
+      },
+      {
+        "level": "100",
+        "standard": "185",
+        "flat": "170"
+      },
+      {
+        "level": "125",
+        "standard": "196",
+        "flat": "179"
+      },
+      {
+        "level": "150",
+        "standard": "207",
+        "flat": "188"
+      },
+      {
+        "level": "175",
+        "standard": "218",
+        "flat": "197"
+      },
+      {
+        "level": "200",
+        "standard": "230",
+        "flat": "206"
+      },
+      {
+        "level": "225",
+        "standard": "241",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "252",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Lombardy Cabbage",
+    "link": "/wiki/Lombardy_Cabbage",
+    "buy": "500 1",
+    "harvest": [
+      "850",
+      "65"
+    ],
+    "time": "18h",
+    "seasons": [
+      "Spring",
+      "Fall"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "850",
+        "flat": "782"
+      },
+      {
+        "level": "25",
+        "standard": "972",
+        "flat": "880"
+      },
+      {
+        "level": "50",
+        "standard": "1.10k",
+        "flat": "982"
+      },
+      {
+        "level": "75",
+        "standard": "1.23k",
+        "flat": "1.08k"
+      },
+      {
+        "level": "100",
+        "standard": "1.36k",
+        "flat": "1.19k"
+      },
+      {
+        "level": "125",
+        "standard": "1.48k",
+        "flat": "1.29k"
+      },
+      {
+        "level": "150",
+        "standard": "1.61k",
+        "flat": "1.39k"
+      },
+      {
+        "level": "175",
+        "standard": "1.74k",
+        "flat": "1.49k"
+      },
+      {
+        "level": "200",
+        "standard": "1.87k",
+        "flat": "1.59k"
+      },
+      {
+        "level": "225",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Purple Carrot",
+    "link": "/wiki/Purple_Carrot",
+    "buy": "4.20k 8",
+    "harvest": [
+      "4.30k",
+      "10"
+    ],
+    "time": "20m",
+    "seasons": [
+      "Spring",
+      "Fall",
+      "Winter"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "4.30k",
+        "flat": "4.28k"
+      },
+      {
+        "level": "25",
+        "standard": "4.33k",
+        "flat": "4.31k"
+      },
+      {
+        "level": "50",
+        "standard": "4.37k",
+        "flat": "4.34k"
+      },
+      {
+        "level": "75",
+        "standard": "4.40k",
+        "flat": "4.36k"
+      },
+      {
+        "level": "100",
+        "standard": "4.43k",
+        "flat": "4.39k"
+      },
+      {
+        "level": "125",
+        "standard": "4.47k",
+        "flat": "4.42k"
+      },
+      {
+        "level": "150",
+        "standard": "4.50k",
+        "flat": "4.44k"
+      },
+      {
+        "level": "175",
+        "standard": "4.53k",
+        "flat": "4.47k"
+      },
+      {
+        "level": "200",
+        "standard": "4.57k",
+        "flat": "4.50k"
+      },
+      {
+        "level": "225",
+        "standard": "",
+        "flat": "4.52k"
+      },
+      {
+        "level": "250",
+        "standard": "",
+        "flat": "4.55k"
+      }
+    ]
+  },
+  {
+    "name": "Yellow Onion",
+    "link": "/wiki/Yellow_Onion",
+    "buy": "80",
+    "harvest": [
+      "150",
+      "14"
+    ],
+    "time": "3h 30m",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "150",
+        "flat": "138"
+      },
+      {
+        "level": "25",
+        "standard": "172",
+        "flat": "155"
+      },
+      {
+        "level": "50",
+        "standard": "194",
+        "flat": "173"
+      },
+      {
+        "level": "75",
+        "standard": "217",
+        "flat": "191"
+      },
+      {
+        "level": "100",
+        "standard": "239",
+        "flat": "209"
+      },
+      {
+        "level": "125",
+        "standard": "262",
+        "flat": "227"
+      },
+      {
+        "level": "150",
+        "standard": "284",
+        "flat": "245"
+      },
+      {
+        "level": "175",
+        "standard": "307",
+        "flat": "263"
+      },
+      {
+        "level": "200",
+        "standard": "329",
+        "flat": "281"
+      },
+      {
+        "level": "225",
+        "standard": "352",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "374",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Red Onion",
+    "link": "/wiki/Red_Onion",
+    "buy": "440 1",
+    "harvest": [
+      "560",
+      "30"
+    ],
+    "time": "5h",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "560",
+        "flat": "538"
+      },
+      {
+        "level": "25",
+        "standard": "600",
+        "flat": "570"
+      },
+      {
+        "level": "50",
+        "standard": "641",
+        "flat": "603"
+      },
+      {
+        "level": "75",
+        "standard": "682",
+        "flat": "636"
+      },
+      {
+        "level": "100",
+        "standard": "723",
+        "flat": "669"
+      },
+      {
+        "level": "125",
+        "standard": "765",
+        "flat": "702"
+      },
+      {
+        "level": "150",
+        "standard": "806",
+        "flat": "735"
+      },
+      {
+        "level": "175",
+        "standard": "847",
+        "flat": "768"
+      },
+      {
+        "level": "200",
+        "standard": "888",
+        "flat": "801"
+      },
+      {
+        "level": "225",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Leek",
+    "link": "/wiki/Leek",
+    "buy": "1.25K 3",
+    "harvest": [
+      "1.38K",
+      "12"
+    ],
+    "time": "45m",
+    "seasons": [
+      "Winter"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "1.38k",
+        "flat": "1.36k"
+      },
+      {
+        "level": "25",
+        "standard": "1.42k",
+        "flat": "1.39k"
+      },
+      {
+        "level": "50",
+        "standard": "1.47k",
+        "flat": "1.43k"
+      },
+      {
+        "level": "75",
+        "standard": "1.51k",
+        "flat": "1.46k"
+      },
+      {
+        "level": "100",
+        "standard": "1.56k",
+        "flat": "1.50k"
+      },
+      {
+        "level": "125",
+        "standard": "1.60k",
+        "flat": "1.53k"
+      },
+      {
+        "level": "150",
+        "standard": "1.65k",
+        "flat": "1.57k"
+      },
+      {
+        "level": "175",
+        "standard": "1.69k",
+        "flat": "1.61k"
+      },
+      {
+        "level": "200",
+        "standard": "1.74k",
+        "flat": "1.64k"
+      },
+      {
+        "level": "225",
+        "standard": "1.78k",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "1.83k",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Chard",
+    "link": "/wiki/Chard",
+    "buy": "12.00K 24",
+    "harvest": [
+      "15.25K",
+      "150"
+    ],
+    "time": "15h",
+    "seasons": [
+      "Summer"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "15.25k",
+        "flat": "14.60k"
+      },
+      {
+        "level": "25",
+        "standard": "16.42k",
+        "flat": "15.53k"
+      },
+      {
+        "level": "50",
+        "standard": "17.63k",
+        "flat": "16.51k"
+      },
+      {
+        "level": "75",
+        "standard": "18.85k",
+        "flat": "17.48k"
+      },
+      {
+        "level": "100",
+        "standard": "20.06k",
+        "flat": "18.45k"
+      },
+      {
+        "level": "125",
+        "standard": "21.28k",
+        "flat": "19.42k"
+      },
+      {
+        "level": "150",
+        "standard": "22.49k",
+        "flat": "20.40k"
+      },
+      {
+        "level": "175",
+        "standard": "23.71k",
+        "flat": "21.7k"
+      },
+      {
+        "level": "200",
+        "standard": "24.92k",
+        "flat": "22.34k"
+      },
+      {
+        "level": "225",
+        "standard": "26.14k",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "27.35k",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Spinach",
+    "link": "/wiki/Spinach",
+    "buy": "6.00K 12",
+    "harvest": [
+      "6.60k",
+      "40"
+    ],
+    "time": "2h 30m",
+    "seasons": [
+      "Spring",
+      "Summer"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "6.60k",
+        "flat": "6.48k"
+      },
+      {
+        "level": "25",
+        "standard": "6.81k",
+        "flat": "6.65k"
+      },
+      {
+        "level": "50",
+        "standard": "7.03k",
+        "flat": "6.83k"
+      },
+      {
+        "level": "75",
+        "standard": "7.26k",
+        "flat": "7.01k"
+      },
+      {
+        "level": "100",
+        "standard": "7.48k",
+        "flat": "7.18k"
+      },
+      {
+        "level": "125",
+        "standard": "7.70k",
+        "flat": "7.36k"
+      },
+      {
+        "level": "150",
+        "standard": "7.92k",
+        "flat": "7.54k"
+      },
+      {
+        "level": "175",
+        "standard": "8.14k",
+        "flat": "7.71k"
+      },
+      {
+        "level": "200",
+        "standard": "8.36k",
+        "flat": "7.89k"
+      },
+      {
+        "level": "225",
+        "standard": "8.58k",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "8.80k",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Broccoli",
+    "link": "/wiki/Broccoli",
+    "buy": "5.00K 10",
+    "harvest": [
+      "5.25K",
+      "20"
+    ],
+    "time": "1h",
+    "seasons": [
+      "Summer",
+      "Fall"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "5.25k",
+        "flat": "5.20k"
+      },
+      {
+        "level": "25",
+        "standard": "5.34k",
+        "flat": "5.27k"
+      },
+      {
+        "level": "50",
+        "standard": "5.43k",
+        "flat": "5.34k"
+      },
+      {
+        "level": "75",
+        "standard": "5.52k",
+        "flat": "5.41k"
+      },
+      {
+        "level": "100",
+        "standard": "5.61k",
+        "flat": "5.49k"
+      },
+      {
+        "level": "125",
+        "standard": "5.70k",
+        "flat": "5.56k"
+      },
+      {
+        "level": "150",
+        "standard": "5.79k",
+        "flat": "5.63k"
+      },
+      {
+        "level": "175",
+        "standard": "5.88k",
+        "flat": "5.70k"
+      },
+      {
+        "level": "200",
+        "standard": "5.97k",
+        "flat": "5.78k"
+      },
+      {
+        "level": "225",
+        "standard": "6.06k",
+        "flat": "5.85k"
+      },
+      {
+        "level": "250",
+        "standard": "6.15k",
+        "flat": "5.92k"
+      }
+    ]
+  },
+  {
+    "name": "Graffiti Cauliflower",
+    "link": "/wiki/Graffiti_Cauliflower",
+    "buy": "4.50K 9",
+    "harvest": [
+      "7.00K",
+      "210"
+    ],
+    "time": "2d",
+    "seasons": [
+      "Fall"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "7.00k",
+        "flat": "6.50k"
+      },
+      {
+        "level": "25",
+        "standard": "7.90k",
+        "flat": "7.22k"
+      },
+      {
+        "level": "50",
+        "standard": "8.83k",
+        "flat": "7.97k"
+      },
+      {
+        "level": "75",
+        "standard": "9.76k",
+        "flat": "8.71k"
+      },
+      {
+        "level": "100",
+        "standard": "10.70k",
+        "flat": "9.46k"
+      },
+      {
+        "level": "125",
+        "standard": "11.63k",
+        "flat": "10.21k"
+      },
+      {
+        "level": "150",
+        "standard": "12.56k",
+        "flat": "10.95k"
+      },
+      {
+        "level": "175",
+        "standard": "13.50k",
+        "flat": "11.70k"
+      },
+      {
+        "level": "200",
+        "standard": "14.43k",
+        "flat": "12.45k"
+      },
+      {
+        "level": "225",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Pumpkin",
+    "link": "/wiki/Pumpkin",
+    "buy": "100",
+    "harvest": [
+      "400",
+      "65"
+    ],
+    "time": "2d",
+    "seasons": [
+      "Summer",
+      "Fall"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "400",
+        "flat": "342"
+      },
+      {
+        "level": "25",
+        "standard": "504",
+        "flat": "426"
+      },
+      {
+        "level": "50",
+        "standard": "613",
+        "flat": "513"
+      },
+      {
+        "level": "75",
+        "standard": "722",
+        "flat": "600"
+      },
+      {
+        "level": "100",
+        "standard": "831",
+        "flat": "687"
+      },
+      {
+        "level": "125",
+        "standard": "939",
+        "flat": "774"
+      },
+      {
+        "level": "150",
+        "standard": "1.05k",
+        "flat": "861"
+      },
+      {
+        "level": "175",
+        "standard": "1.16k",
+        "flat": "948"
+      },
+      {
+        "level": "200",
+        "standard": "1.27k",
+        "flat": "1.03k"
+      },
+      {
+        "level": "225",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Cauliflower",
+    "link": "/wiki/Cauliflower",
+    "buy": "260",
+    "harvest": [
+      "310",
+      "9"
+    ],
+    "time": "45m",
+    "seasons": [
+      "Fall"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "310",
+        "flat": "302"
+      },
+      {
+        "level": "25",
+        "standard": "324",
+        "flat": "314"
+      },
+      {
+        "level": "50",
+        "standard": "339",
+        "flat": "326"
+      },
+      {
+        "level": "75",
+        "standard": "354",
+        "flat": "338"
+      },
+      {
+        "level": "100",
+        "standard": "369",
+        "flat": "350"
+      },
+      {
+        "level": "125",
+        "standard": "384",
+        "flat": "362"
+      },
+      {
+        "level": "150",
+        "standard": "399",
+        "flat": "374"
+      },
+      {
+        "level": "175",
+        "standard": "414",
+        "flat": "386"
+      },
+      {
+        "level": "200",
+        "standard": "429",
+        "flat": "398"
+      },
+      {
+        "level": "225",
+        "standard": "",
+        "flat": "410"
+      },
+      {
+        "level": "250",
+        "standard": "",
+        "flat": "422"
+      }
+    ]
+  },
+  {
+    "name": "Romanesco",
+    "link": "/wiki/Romanesco",
+    "buy": "6.00K 12",
+    "harvest": [
+      "6.50K",
+      "33"
+    ],
+    "time": "1h 30m",
+    "seasons": [
+      "Fall",
+      "Winter"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "6.50k",
+        "flat": "6.40k"
+      },
+      {
+        "level": "25",
+        "standard": "6.68k",
+        "flat": "6.54k"
+      },
+      {
+        "level": "50",
+        "standard": "6.86k",
+        "flat": "6.69k"
+      },
+      {
+        "level": "75",
+        "standard": "7.04k",
+        "flat": "6.84k"
+      },
+      {
+        "level": "100",
+        "standard": "7.23k",
+        "flat": "6.98k"
+      },
+      {
+        "level": "125",
+        "standard": "7.41k",
+        "flat": "7.13k"
+      },
+      {
+        "level": "150",
+        "standard": "7.59k",
+        "flat": "7.28k"
+      },
+      {
+        "level": "175",
+        "standard": "7.78k",
+        "flat": "7.43k"
+      },
+      {
+        "level": "200",
+        "standard": "7.96k",
+        "flat": "7.57k"
+      },
+      {
+        "level": "225",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Cheddar Cauliflower",
+    "link": "/wiki/Cheddar_Cauliflower",
+    "buy": "2.40K 5",
+    "harvest": [
+      "2.60K",
+      "14"
+    ],
+    "time": "45m",
+    "seasons": [
+      "Spring"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "2.60k",
+        "flat": "2.56k"
+      },
+      {
+        "level": "25",
+        "standard": "2.67k",
+        "flat": "2.62k"
+      },
+      {
+        "level": "50",
+        "standard": "2.74k",
+        "flat": "2.67k"
+      },
+      {
+        "level": "75",
+        "standard": "2.81k",
+        "flat": "2.73k"
+      },
+      {
+        "level": "100",
+        "standard": "2.88k",
+        "flat": "2.79k"
+      },
+      {
+        "level": "125",
+        "standard": "2.95k",
+        "flat": "2.85k"
+      },
+      {
+        "level": "150",
+        "standard": "3.03k",
+        "flat": "2.90k"
+      },
+      {
+        "level": "175",
+        "standard": "3.10k",
+        "flat": "2.96k"
+      },
+      {
+        "level": "200",
+        "standard": "3.17k",
+        "flat": "3.02k"
+      },
+      {
+        "level": "225",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Crookneck Pumpkin",
+    "link": "/wiki/Crookneck_Pumpkin",
+    "buy": "10.00K 20",
+    "harvest": [
+      "12.00K",
+      "110"
+    ],
+    "time": "10h",
+    "seasons": [
+      "Winter"
+    ],
+    "type": "Fruits",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "12.00k",
+        "flat": "11.60k"
+      },
+      {
+        "level": "25",
+        "standard": "12.72k",
+        "flat": "12.18k"
+      },
+      {
+        "level": "50",
+        "standard": "13.46k",
+        "flat": "12.77k"
+      },
+      {
+        "level": "75",
+        "standard": "14.21k",
+        "flat": "13.37k"
+      },
+      {
+        "level": "100",
+        "standard": "14.95k",
+        "flat": "13.97k"
+      },
+      {
+        "level": "125",
+        "standard": "15.70k",
+        "flat": "14.56k"
+      },
+      {
+        "level": "150",
+        "standard": "16.45k",
+        "flat": "15.16k"
+      },
+      {
+        "level": "175",
+        "standard": "17.19k",
+        "flat": "15.76k"
+      },
+      {
+        "level": "200",
+        "standard": "17.94k",
+        "flat": "15.35k"
+      },
+      {
+        "level": "225",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Zucchini",
+    "link": "/wiki/Zucchini",
+    "buy": "120",
+    "harvest": [
+      "150",
+      "3"
+    ],
+    "time": "15m",
+    "seasons": [
+      "Spring",
+      "Winter"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "150",
+        "flat": "146"
+      },
+      {
+        "level": "25",
+        "standard": "157",
+        "flat": "152"
+      },
+      {
+        "level": "50",
+        "standard": "165",
+        "flat": "158"
+      },
+      {
+        "level": "75",
+        "standard": "172",
+        "flat": "164"
+      },
+      {
+        "level": "100",
+        "standard": "180",
+        "flat": "170"
+      },
+      {
+        "level": "125",
+        "standard": "187",
+        "flat": "176"
+      },
+      {
+        "level": "150",
+        "standard": "195",
+        "flat": "182"
+      },
+      {
+        "level": "175",
+        "standard": "202",
+        "flat": "188"
+      },
+      {
+        "level": "200",
+        "standard": "210",
+        "flat": "194"
+      },
+      {
+        "level": "225",
+        "standard": "217",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "225",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Yellow Zucchini",
+    "link": "/wiki/Yellow_Zucchini",
+    "buy": "850 2",
+    "harvest": [
+      "920",
+      "6"
+    ],
+    "time": "15m",
+    "seasons": [
+      "Spring",
+      "Winter"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "920",
+        "flat": "908"
+      },
+      {
+        "level": "25",
+        "standard": "948",
+        "flat": "925"
+      },
+      {
+        "level": "50",
+        "standard": "964",
+        "flat": "943"
+      },
+      {
+        "level": "75",
+        "standard": "987",
+        "flat": "961"
+      },
+      {
+        "level": "100",
+        "standard": "1.01k",
+        "flat": "979"
+      },
+      {
+        "level": "125",
+        "standard": "1.03k",
+        "flat": "997"
+      },
+      {
+        "level": "150",
+        "standard": "1.05k",
+        "flat": "1.01k"
+      },
+      {
+        "level": "175",
+        "standard": "1.08k",
+        "flat": "1.03k"
+      },
+      {
+        "level": "200",
+        "standard": "1.10k",
+        "flat": "1.05k"
+      },
+      {
+        "level": "225",
+        "standard": "1.12k",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "1.14k",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Aloe Vera",
+    "link": "/wiki/Aloe_Vera",
+    "buy": "150",
+    "harvest": [
+      "220",
+      "18"
+    ],
+    "time": "4h",
+    "seasons": [
+      "Summer",
+      "Winter"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "220",
+        "flat": "208"
+      },
+      {
+        "level": "25",
+        "standard": "242",
+        "flat": "225"
+      },
+      {
+        "level": "50",
+        "standard": "264",
+        "flat": "243"
+      },
+      {
+        "level": "75",
+        "standard": "287",
+        "flat": "261"
+      },
+      {
+        "level": "100",
+        "standard": "309",
+        "flat": "279"
+      },
+      {
+        "level": "125",
+        "standard": "332",
+        "flat": "297"
+      },
+      {
+        "level": "150",
+        "standard": "354",
+        "flat": "315"
+      },
+      {
+        "level": "175",
+        "standard": "377",
+        "flat": "333"
+      },
+      {
+        "level": "200",
+        "standard": "399",
+        "flat": "351"
+      },
+      {
+        "level": "225",
+        "standard": "422",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "444",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Beefsteak Tomato",
+    "link": "/wiki/Beefsteak_Tomato",
+    "buy": "1.00K 2",
+    "harvest": [
+      "1.20K",
+      "36"
+    ],
+    "time": "6h",
+    "seasons": [
+      "Spring",
+      "Winter"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "1.20k",
+        "flat": "1.16k"
+      },
+      {
+        "level": "25",
+        "standard": "1.27k",
+        "flat": "1.22k"
+      },
+      {
+        "level": "50",
+        "standard": "1.34k",
+        "flat": "1.27k"
+      },
+      {
+        "level": "75",
+        "standard": "1.41k",
+        "flat": "1.33k"
+      },
+      {
+        "level": "100",
+        "standard": "1.48k",
+        "flat": "1.39k"
+      },
+      {
+        "level": "125",
+        "standard": "1.5k",
+        "flat": "1.45k"
+      },
+      {
+        "level": "150",
+        "standard": "1.63k",
+        "flat": "1.50k"
+      },
+      {
+        "level": "175",
+        "standard": "1.70k",
+        "flat": "1.56k"
+      },
+      {
+        "level": "200",
+        "standard": "1.77k",
+        "flat": "1.62k"
+      },
+      {
+        "level": "225",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Tomato",
+    "link": "/wiki/Tomato",
+    "buy": "105",
+    "harvest": [
+      "165",
+      "12"
+    ],
+    "time": "2h",
+    "seasons": [
+      "Spring"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "165",
+        "flat": "155"
+      },
+      {
+        "level": "25",
+        "standard": "183",
+        "flat": "169"
+      },
+      {
+        "level": "50",
+        "standard": "202",
+        "flat": "184"
+      },
+      {
+        "level": "75",
+        "standard": "221",
+        "flat": "199"
+      },
+      {
+        "level": "100",
+        "standard": "239",
+        "flat": "214"
+      },
+      {
+        "level": "125",
+        "standard": "258",
+        "flat": "229"
+      },
+      {
+        "level": "150",
+        "standard": "277",
+        "flat": "244"
+      },
+      {
+        "level": "175",
+        "standard": "295",
+        "flat": "259"
+      },
+      {
+        "level": "200",
+        "standard": "314",
+        "flat": "274"
+      },
+      {
+        "level": "225",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Azoychka Tomato",
+    "link": "/wiki/Azoychka_Tomato",
+    "buy": "950 2",
+    "harvest": [
+      "1.38K",
+      "35"
+    ],
+    "time": "5h",
+    "seasons": [
+      "Spring",
+      "Fall"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "1.38k",
+        "flat": "1.30k"
+      },
+      {
+        "level": "25",
+        "standard": "1.53k",
+        "flat": "1.42k"
+      },
+      {
+        "level": "50",
+        "standard": "1.69k",
+        "flat": "1.54k"
+      },
+      {
+        "level": "75",
+        "standard": "1.85k",
+        "flat": "1.67k"
+      },
+      {
+        "level": "100",
+        "standard": "2.00k",
+        "flat": "1.79k"
+      },
+      {
+        "level": "125",
+        "standard": "2.16k",
+        "flat": "1.92k"
+      },
+      {
+        "level": "150",
+        "standard": "2.32k",
+        "flat": "2.05k"
+      },
+      {
+        "level": "175",
+        "standard": "2.48k",
+        "flat": "2.17k"
+      },
+      {
+        "level": "200",
+        "standard": "2.63k",
+        "flat": "2.30k"
+      },
+      {
+        "level": "225",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Cherokee Purple Tomato",
+    "link": "/wiki/Cherokee_Purple_Tomato",
+    "buy": "2.50K 5",
+    "harvest": [
+      "3.50K",
+      "80"
+    ],
+    "time": "12h",
+    "seasons": [
+      "Spring"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "3.50k",
+        "flat": "3.30k"
+      },
+      {
+        "level": "25",
+        "standard": "3.86k",
+        "flat": "3.59k"
+      },
+      {
+        "level": "50",
+        "standard": "4.23k",
+        "flat": "3.88k"
+      },
+      {
+        "level": "75",
+        "standard": "4.60k",
+        "flat": "4.18k"
+      },
+      {
+        "level": "100",
+        "standard": "4.97k",
+        "flat": "4.48k"
+      },
+      {
+        "level": "125",
+        "standard": "5.34k",
+        "flat": "4.78k"
+      },
+      {
+        "level": "150",
+        "standard": "5.71k",
+        "flat": "5.07k"
+      },
+      {
+        "level": "175",
+        "standard": "6.08k",
+        "flat": "5.37k"
+      },
+      {
+        "level": "200",
+        "standard": "6.45k",
+        "flat": "5.67k"
+      },
+      {
+        "level": "225",
+        "standard": "6.83k",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "7.20k",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Yellow Pepper",
+    "link": "/wiki/Yellow_Pepper",
+    "buy": "125",
+    "harvest": [
+      "180",
+      "10"
+    ],
+    "time": "1h 30m",
+    "seasons": [
+      "Spring",
+      "Fall"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "180",
+        "flat": "171"
+      },
+      {
+        "level": "25",
+        "standard": "196",
+        "flat": "184"
+      },
+      {
+        "level": "50",
+        "standard": "213",
+        "flat": "197"
+      },
+      {
+        "level": "75",
+        "standard": "230",
+        "flat": "211"
+      },
+      {
+        "level": "100",
+        "standard": "247",
+        "flat": "224"
+      },
+      {
+        "level": "125",
+        "standard": "264",
+        "flat": "238"
+      },
+      {
+        "level": "150",
+        "standard": "281",
+        "flat": "251"
+      },
+      {
+        "level": "175",
+        "standard": "297",
+        "flat": "265"
+      },
+      {
+        "level": "200",
+        "standard": "314",
+        "flat": "278"
+      },
+      {
+        "level": "225",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Green Pepper",
+    "link": "/wiki/Green_Pepper",
+    "buy": "900 2",
+    "harvest": [
+      "1.15K",
+      "30"
+    ],
+    "time": "4h",
+    "seasons": [
+      "Fall",
+      "Winter"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "1.15k",
+        "flat": "1.10k"
+      },
+      {
+        "level": "25",
+        "standard": "1.24k",
+        "flat": "1.17k"
+      },
+      {
+        "level": "50",
+        "standard": "1.33kk",
+        "flat": "1.24k"
+      },
+      {
+        "level": "75",
+        "standard": "1.42",
+        "flat": "1.32k"
+      },
+      {
+        "level": "100",
+        "standard": "1.51k",
+        "flat": "1.39k"
+      },
+      {
+        "level": "125",
+        "standard": "1.60k",
+        "flat": "1.46k"
+      },
+      {
+        "level": "150",
+        "standard": "1.69k",
+        "flat": "1.53k"
+      },
+      {
+        "level": "175",
+        "standard": "1.78k",
+        "flat": "1.60k"
+      },
+      {
+        "level": "200",
+        "standard": "1.87k",
+        "flat": "1.67k"
+      },
+      {
+        "level": "225",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Red Pepper",
+    "link": "/wiki/Red_Pepper",
+    "buy": "750 1",
+    "harvest": [
+      "1.15K",
+      "55"
+    ],
+    "time": "12h",
+    "seasons": [
+      "Spring",
+      "Summer"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "1.15k",
+        "flat": "1.07k"
+      },
+      {
+        "level": "25",
+        "standard": "1.29k",
+        "flat": "1.18k"
+      },
+      {
+        "level": "50",
+        "standard": "1.44k",
+        "flat": "1.30k"
+      },
+      {
+        "level": "75",
+        "standard": "1.58k",
+        "flat": "1.42k"
+      },
+      {
+        "level": "100",
+        "standard": "1.73k",
+        "flat": "1.53k"
+      },
+      {
+        "level": "125",
+        "standard": "1.8k",
+        "flat": "1.65k"
+      },
+      {
+        "level": "150",
+        "standard": "2.02k",
+        "flat": "1.77k"
+      },
+      {
+        "level": "175",
+        "standard": "2.17k",
+        "flat": "1.89k"
+      },
+      {
+        "level": "200",
+        "standard": "2.31k",
+        "flat": "2.00k"
+      },
+      {
+        "level": "225",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Turnip",
+    "link": "/wiki/Turnip",
+    "buy": "200",
+    "harvest": [
+      "225",
+      "3"
+    ],
+    "time": "10m",
+    "seasons": [
+      "Fall",
+      "Winter"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "225",
+        "flat": "222"
+      },
+      {
+        "level": "25",
+        "standard": "230",
+        "flat": "226"
+      },
+      {
+        "level": "50",
+        "standard": "236",
+        "flat": "231"
+      },
+      {
+        "level": "75",
+        "standard": "242",
+        "flat": "235"
+      },
+      {
+        "level": "100",
+        "standard": "247",
+        "flat": "240"
+      },
+      {
+        "level": "125",
+        "standard": "253",
+        "flat": "244"
+      },
+      {
+        "level": "150",
+        "standard": "259",
+        "flat": "249"
+      },
+      {
+        "level": "175",
+        "standard": "264",
+        "flat": "253"
+      },
+      {
+        "level": "200",
+        "standard": "270",
+        "flat": "258"
+      },
+      {
+        "level": "225",
+        "standard": "275",
+        "flat": "262"
+      },
+      {
+        "level": "250",
+        "standard": "281",
+        "flat": "267"
+      }
+    ]
+  },
+  {
+    "name": "Jicama",
+    "link": "/wiki/Jicama",
+    "buy": "2,15K 4",
+    "harvest": [
+      "2.22K",
+      "6"
+    ],
+    "time": "10m",
+    "seasons": [
+      "Fall",
+      "Winter"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "2.22k",
+        "flat": "2.21k"
+      },
+      {
+        "level": "25",
+        "standard": "2.25k",
+        "flat": "2.23k"
+      },
+      {
+        "level": "50",
+        "standard": "2.27k",
+        "flat": "2.25k"
+      },
+      {
+        "level": "75",
+        "standard": "2.30k",
+        "flat": "2.27k"
+      },
+      {
+        "level": "100",
+        "standard": "2.32k",
+        "flat": "2.29k"
+      },
+      {
+        "level": "125",
+        "standard": "2.35k",
+        "flat": "2.31k"
+      },
+      {
+        "level": "150",
+        "standard": "2.37k",
+        "flat": "2.33k"
+      },
+      {
+        "level": "175",
+        "standard": "2.39k",
+        "flat": "2.35k"
+      },
+      {
+        "level": "200",
+        "standard": "2.42k",
+        "flat": "2.37k"
+      },
+      {
+        "level": "225",
+        "standard": "2.44k",
+        "flat": "2.39k"
+      },
+      {
+        "level": "250",
+        "standard": "2.47k",
+        "flat": "2.41k"
+      }
+    ]
+  },
+  {
+    "name": "Agave",
+    "link": "/wiki/Agave",
+    "buy": "400 1",
+    "harvest": [
+      "650",
+      "48"
+    ],
+    "time": "10h",
+    "seasons": [
+      "Summer",
+      "Winter"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "650",
+        "flat": "602"
+      },
+      {
+        "level": "25",
+        "standard": "736",
+        "flat": "671"
+      },
+      {
+        "level": "50",
+        "standard": "826",
+        "flat": "743"
+      },
+      {
+        "level": "75",
+        "standard": "916",
+        "flat": "815"
+      },
+      {
+        "level": "100",
+        "standard": "1.01k",
+        "flat": "887"
+      },
+      {
+        "level": "125",
+        "standard": "1.10k",
+        "flat": "959"
+      },
+      {
+        "level": "150",
+        "standard": "1.19k",
+        "flat": "1.03k"
+      },
+      {
+        "level": "175",
+        "standard": "1.28k",
+        "flat": "1.10k"
+      },
+      {
+        "level": "200",
+        "standard": "1.37k",
+        "flat": "1.17k"
+      },
+      {
+        "level": "225",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Artichoke",
+    "link": "/wiki/Artichoke",
+    "buy": "7.00K 14",
+    "harvest": [
+      "8.20K",
+      "80"
+    ],
+    "time": "7h",
+    "seasons": [
+      "Spring",
+      "Winter"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "8.20k",
+        "flat": "7.96k"
+      },
+      {
+        "level": "25",
+        "standard": "8.63k",
+        "flat": "8.31k"
+      },
+      {
+        "level": "50",
+        "standard": "9.07k",
+        "flat": "8.66k"
+      },
+      {
+        "level": "75",
+        "standard": "9.52k",
+        "flat": "9.02k"
+      },
+      {
+        "level": "100",
+        "standard": "9.97k",
+        "flat": "9.38k"
+      },
+      {
+        "level": "125",
+        "standard": "10.41k",
+        "flat": "9.73k"
+      },
+      {
+        "level": "150",
+        "standard": "10.86k",
+        "flat": "10.09k"
+      },
+      {
+        "level": "175",
+        "standard": "11.31k",
+        "flat": "10.45k"
+      },
+      {
+        "level": "200",
+        "standard": "11.75k",
+        "flat": "10.80k"
+      },
+      {
+        "level": "225",
+        "standard": "12.20k",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "12.65k",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Asparagus",
+    "link": "/wiki/Asparagus",
+    "buy": "840 1",
+    "harvest": [
+      "900",
+      "13"
+    ],
+    "time": "1h",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Winter"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "900",
+        "flat": "890"
+      },
+      {
+        "level": "25",
+        "standard": "918",
+        "flat": "904"
+      },
+      {
+        "level": "50",
+        "standard": "937",
+        "flat": "919"
+      },
+      {
+        "level": "75",
+        "standard": "956",
+        "flat": "934"
+      },
+      {
+        "level": "100",
+        "standard": "974",
+        "flat": "949"
+      },
+      {
+        "level": "125",
+        "standard": "993",
+        "flat": "964"
+      },
+      {
+        "level": "150",
+        "standard": "1.01k",
+        "flat": "979"
+      },
+      {
+        "level": "175",
+        "standard": "1.03k",
+        "flat": "994"
+      },
+      {
+        "level": "200",
+        "standard": "1.05k",
+        "flat": "1.01k"
+      },
+      {
+        "level": "225",
+        "standard": "",
+        "flat": "1.02k"
+      },
+      {
+        "level": "250",
+        "standard": "",
+        "flat": "1.04k"
+      }
+    ]
+  },
+  {
+    "name": "Potato",
+    "link": "/wiki/Potato",
+    "buy": "60",
+    "harvest": [
+      "120",
+      "10"
+    ],
+    "time": "3h",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "120",
+        "flat": "112"
+      },
+      {
+        "level": "25",
+        "standard": "138",
+        "flat": "124"
+      },
+      {
+        "level": "50",
+        "standard": "157",
+        "flat": "139"
+      },
+      {
+        "level": "75",
+        "standard": "176",
+        "flat": "154"
+      },
+      {
+        "level": "100",
+        "standard": "194",
+        "flat": "169"
+      },
+      {
+        "level": "125",
+        "standard": "213",
+        "flat": "184"
+      },
+      {
+        "level": "150",
+        "standard": "232",
+        "flat": "199"
+      },
+      {
+        "level": "175",
+        "standard": "250",
+        "flat": "214"
+      },
+      {
+        "level": "200",
+        "standard": "269",
+        "flat": "229"
+      },
+      {
+        "level": "225",
+        "standard": "288",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "307",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Garlic",
+    "link": "/wiki/Garlic",
+    "buy": "300",
+    "harvest": [
+      "400",
+      "23"
+    ],
+    "time": "3h 30m",
+    "seasons": [
+      "Summer",
+      "Fall"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "400",
+        "flat": "382"
+      },
+      {
+        "level": "25",
+        "standard": "432",
+        "flat": "408"
+      },
+      {
+        "level": "50",
+        "standard": "466",
+        "flat": "435"
+      },
+      {
+        "level": "75",
+        "standard": "500",
+        "flat": "462"
+      },
+      {
+        "level": "100",
+        "standard": "534",
+        "flat": "489"
+      },
+      {
+        "level": "125",
+        "standard": "567",
+        "flat": "516"
+      },
+      {
+        "level": "150",
+        "standard": "601",
+        "flat": "543"
+      },
+      {
+        "level": "175",
+        "standard": "635",
+        "flat": "570"
+      },
+      {
+        "level": "200",
+        "standard": "669",
+        "flat": "597"
+      },
+      {
+        "level": "225",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Shallot",
+    "link": "/wiki/Shallot",
+    "buy": "2.20K 4",
+    "harvest": [
+      "2.60K",
+      "38"
+    ],
+    "time": "4h",
+    "seasons": [
+      "Summer",
+      "Fall"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "2.60k",
+        "flat": "2.52k"
+      },
+      {
+        "level": "25",
+        "standard": "2.74k",
+        "flat": "2.63k"
+      },
+      {
+        "level": "50",
+        "standard": "2.89k",
+        "flat": "2.75k"
+      },
+      {
+        "level": "75",
+        "standard": "3.03k",
+        "flat": "2.87k"
+      },
+      {
+        "level": "100",
+        "standard": "3.18k",
+        "flat": "2.98k"
+      },
+      {
+        "level": "125",
+        "standard": "3.33k",
+        "flat": "3.10k"
+      },
+      {
+        "level": "150",
+        "standard": "3.47k",
+        "flat": "3.22k"
+      },
+      {
+        "level": "175",
+        "standard": "3.62k",
+        "flat": "3.34k"
+      },
+      {
+        "level": "200",
+        "standard": "3.76k",
+        "flat": "3.45k"
+      },
+      {
+        "level": "225",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Beet",
+    "link": "/wiki/Beet",
+    "buy": "800 2",
+    "harvest": [
+      "1.10K",
+      "40"
+    ],
+    "time": "6h",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "1.10k",
+        "flat": "1.04k"
+      },
+      {
+        "level": "25",
+        "standard": "1.20k",
+        "flat": "1.13k"
+      },
+      {
+        "level": "50",
+        "standard": "1.31k",
+        "flat": "1.21k"
+      },
+      {
+        "level": "75",
+        "standard": "1.42k",
+        "flat": "1.30k"
+      },
+      {
+        "level": "100",
+        "standard": "1.53k",
+        "flat": "1.39k"
+      },
+      {
+        "level": "125",
+        "standard": "1.64k",
+        "flat": "1.47k"
+      },
+      {
+        "level": "150",
+        "standard": "1.75k",
+        "flat": "1.56k"
+      },
+      {
+        "level": "175",
+        "standard": "1.86k",
+        "flat": "1.65k"
+      },
+      {
+        "level": "200",
+        "standard": "1.97k",
+        "flat": "1.74k"
+      },
+      {
+        "level": "225",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Peas",
+    "link": "/wiki/Peas",
+    "buy": "180",
+    "harvest": [
+      "280",
+      "30"
+    ],
+    "time": "8h",
+    "seasons": [
+      "Spring",
+      "Fall"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "280",
+        "flat": "262"
+      },
+      {
+        "level": "25",
+        "standard": "312",
+        "flat": "288"
+      },
+      {
+        "level": "50",
+        "standard": "346",
+        "flat": "315"
+      },
+      {
+        "level": "75",
+        "standard": "380",
+        "flat": "342"
+      },
+      {
+        "level": "100",
+        "standard": "414",
+        "flat": "369"
+      },
+      {
+        "level": "125",
+        "standard": "447",
+        "flat": "396"
+      },
+      {
+        "level": "150",
+        "standard": "481",
+        "flat": "423"
+      },
+      {
+        "level": "175",
+        "standard": "515",
+        "flat": "450"
+      },
+      {
+        "level": "200",
+        "standard": "549",
+        "flat": "477"
+      },
+      {
+        "level": "225",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Beans",
+    "link": "/wiki/Beans",
+    "buy": "200",
+    "harvest": [
+      "240",
+      "7"
+    ],
+    "time": "30m",
+    "seasons": [
+      "Fall",
+      "Winter"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "240",
+        "flat": "234"
+      },
+      {
+        "level": "25",
+        "standard": "251",
+        "flat": "243"
+      },
+      {
+        "level": "50",
+        "standard": "262",
+        "flat": "252"
+      },
+      {
+        "level": "75",
+        "standard": "273",
+        "flat": "261"
+      },
+      {
+        "level": "100",
+        "standard": "285",
+        "flat": "270"
+      },
+      {
+        "level": "125",
+        "standard": "296",
+        "flat": "279"
+      },
+      {
+        "level": "150",
+        "standard": "307",
+        "flat": "288"
+      },
+      {
+        "level": "175",
+        "standard": "318",
+        "flat": "297"
+      },
+      {
+        "level": "200",
+        "standard": "330",
+        "flat": "306"
+      },
+      {
+        "level": "225",
+        "standard": "341",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "352",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Eggplant",
+    "link": "/wiki/Eggplant",
+    "buy": "80",
+    "harvest": [
+      "240",
+      "35"
+    ],
+    "time": "1d",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "240",
+        "flat": "210"
+      },
+      {
+        "level": "25",
+        "standard": "294",
+        "flat": "253"
+      },
+      {
+        "level": "50",
+        "standard": "350",
+        "flat": "298"
+      },
+      {
+        "level": "75",
+        "standard": "407",
+        "flat": "343"
+      },
+      {
+        "level": "100",
+        "standard": "463",
+        "flat": "38"
+      },
+      {
+        "level": "125",
+        "standard": "519",
+        "flat": "433"
+      },
+      {
+        "level": "150",
+        "standard": "575",
+        "flat": "478"
+      },
+      {
+        "level": "175",
+        "standard": "631",
+        "flat": "523"
+      },
+      {
+        "level": "200",
+        "standard": "688",
+        "flat": "586"
+      },
+      {
+        "level": "225",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Soybean",
+    "link": "/wiki/Soybean",
+    "buy": "2.75K 5",
+    "harvest": [
+      "3.15K",
+      "38"
+    ],
+    "time": "3h 30m",
+    "seasons": [
+      "Winter"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "3.15k",
+        "flat": "3.07k"
+      },
+      {
+        "level": "25",
+        "standard": "3.29k",
+        "flat": "3.18k"
+      },
+      {
+        "level": "50",
+        "standard": "3.44k",
+        "flat": "3.30k"
+      },
+      {
+        "level": "75",
+        "standard": "3.58k",
+        "flat": "3.42k"
+      },
+      {
+        "level": "100",
+        "standard": "3.73k",
+        "flat": "3.54k"
+      },
+      {
+        "level": "125",
+        "standard": "3.88k",
+        "flat": "3.65k"
+      },
+      {
+        "level": "150",
+        "standard": "4.02k",
+        "flat": "3.77k"
+      },
+      {
+        "level": "175",
+        "standard": "4.17k",
+        "flat": "3.89k"
+      },
+      {
+        "level": "200",
+        "standard": "4.31k",
+        "flat": "4.00k"
+      },
+      {
+        "level": "225",
+        "standard": "4.46k",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "4.61k",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Radish",
+    "link": "/wiki/Radish",
+    "buy": "3.00K 6",
+    "harvest": [
+      "3.60K",
+      "54"
+    ],
+    "time": "6 hours",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "3.60k",
+        "flat": ""
+      },
+      {
+        "level": "25",
+        "standard": "3.81k",
+        "flat": ""
+      },
+      {
+        "level": "50",
+        "standard": "4.03k",
+        "flat": ""
+      },
+      {
+        "level": "75",
+        "standard": "4.26k",
+        "flat": ""
+      },
+      {
+        "level": "100",
+        "standard": "4.48k",
+        "flat": ""
+      },
+      {
+        "level": "125",
+        "standard": "4.70k",
+        "flat": ""
+      },
+      {
+        "level": "150",
+        "standard": "4.92k",
+        "flat": ""
+      },
+      {
+        "level": "175",
+        "standard": "5.14k",
+        "flat": ""
+      },
+      {
+        "level": "200",
+        "standard": "5.36k",
+        "flat": ""
+      },
+      {
+        "level": "225",
+        "standard": "5.58k",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "5.80k",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Cucumber",
+    "link": "/wiki/Cucumber",
+    "buy": "1.30K 3",
+    "harvest": [
+      "1.50K",
+      "23"
+    ],
+    "time": "2h",
+    "seasons": [
+      "Winter"
+    ],
+    "type": "Vegetables",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "1.50k",
+        "flat": "1.46k"
+      },
+      {
+        "level": "25",
+        "standard": "1.57k",
+        "flat": "1.52k"
+      },
+      {
+        "level": "50",
+        "standard": "1.64k",
+        "flat": "1.57k"
+      },
+      {
+        "level": "75",
+        "standard": "1.71k",
+        "flat": "1.63k"
+      },
+      {
+        "level": "100",
+        "standard": "1.78k",
+        "flat": "1.69k"
+      },
+      {
+        "level": "125",
+        "standard": "1.85k",
+        "flat": "1.75k"
+      },
+      {
+        "level": "150",
+        "standard": "1.92k",
+        "flat": "1.80k"
+      },
+      {
+        "level": "175",
+        "standard": "2.00k",
+        "flat": "1.86k"
+      },
+      {
+        "level": "200",
+        "standard": "2.07k",
+        "flat": "1.92k"
+      },
+      {
+        "level": "225",
+        "standard": "2.14k",
+        "flat": "1.97k"
+      },
+      {
+        "level": "250",
+        "standard": "2.21k",
+        "flat": "2.03k"
+      }
+    ]
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Sunflower",
+    "link": "/wiki/Sunflower",
+    "buy": "1.50K 3",
+    "harvest": [
+      "2.20K",
+      "55"
+    ],
+    "time": "8h",
+    "seasons": [
+      "Spring",
+      "Fall"
+    ],
+    "type": "Nuts",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "2.20k",
+        "flat": "2.06k"
+      },
+      {
+        "level": "25",
+        "standard": "2.45k",
+        "flat": "2.26k"
+      },
+      {
+        "level": "50",
+        "standard": "2.71k",
+        "flat": "2.47k"
+      },
+      {
+        "level": "75",
+        "standard": "2.97k",
+        "flat": "2.67k"
+      },
+      {
+        "level": "100",
+        "standard": "3.22k",
+        "flat": "2.88k"
+      },
+      {
+        "level": "125",
+        "standard": "3.48k",
+        "flat": "3.09k"
+      },
+      {
+        "level": "150",
+        "standard": "3.74k",
+        "flat": "3.30k"
+      },
+      {
+        "level": "175",
+        "standard": "4.00k",
+        "flat": "3.50k"
+      },
+      {
+        "level": "200",
+        "standard": "4.26k",
+        "flat": "3.71k"
+      },
+      {
+        "level": "225",
+        "standard": "4.52k",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "4.78k",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Peanut",
+    "link": "/wiki/Peanut",
+    "buy": "40",
+    "harvest": [
+      "65",
+      "3"
+    ],
+    "time": "30m",
+    "seasons": [
+      "Summer",
+      "Winter"
+    ],
+    "type": "Nuts",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "65",
+        "flat": "62"
+      },
+      {
+        "level": "25",
+        "standard": "70",
+        "flat": "66"
+      },
+      {
+        "level": "50",
+        "standard": "76",
+        "flat": "71"
+      },
+      {
+        "level": "75",
+        "standard": "82",
+        "flat": "75"
+      },
+      {
+        "level": "100",
+        "standard": "87",
+        "flat": "80"
+      },
+      {
+        "level": "125",
+        "standard": "93",
+        "flat": "84"
+      },
+      {
+        "level": "150",
+        "standard": "99",
+        "flat": "89"
+      },
+      {
+        "level": "175",
+        "standard": "104",
+        "flat": "93"
+      },
+      {
+        "level": "200",
+        "standard": "110",
+        "flat": "98"
+      },
+      {
+        "level": "225",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  }
+]

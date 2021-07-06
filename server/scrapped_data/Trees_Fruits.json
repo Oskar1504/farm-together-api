@@ -1,0 +1,832 @@
+[
+  {
+    "name": "Apple Tree",
+    "link": "/wiki/Apple_Tree",
+    "buy": "100   1",
+    "harvest": [
+      "8",
+      "",
+      "1"
+    ],
+    "time": "",
+    "seasons": [],
+    "type": "Fruits",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "8",
+        "flat": "6"
+      },
+      {
+        "level": "25",
+        "standard": "11",
+        "flat": ""
+      },
+      {
+        "level": "50",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "75",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "100",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "125",
+        "standard": "24",
+        "flat": ""
+      },
+      {
+        "level": "150",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "175",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "200",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "225",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Lemon Tree",
+    "link": "/wiki/Lemon_Tree",
+    "buy": "200   1",
+    "harvest": [
+      "30",
+      "",
+      "4"
+    ],
+    "time": "",
+    "seasons": [],
+    "type": "Fruits",
+    "profit": [
+      {
+        "level": "Harvest",
+        "standard": "$30",
+        "flat": "$32"
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Pear Tree",
+    "link": "/wiki/Pear_Tree",
+    "buy": "300   1",
+    "harvest": [
+      "15",
+      "",
+      "3"
+    ],
+    "time": "",
+    "seasons": [],
+    "type": "Fruits",
+    "profit": [
+      {
+        "level": "Harvest",
+        "standard": "$15",
+        "flat": "$17"
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Banana Tree",
+    "link": "/wiki/Banana_Tree",
+    "buy": "400   1",
+    "harvest": [
+      "50",
+      "",
+      "7"
+    ],
+    "time": "",
+    "seasons": [],
+    "type": "Fruits",
+    "profit": [
+      {
+        "level": "Harvest",
+        "standard": "$50",
+        "flat": "$69"
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Peach Tree",
+    "link": "/wiki/Peach_Tree",
+    "buy": "420   1",
+    "harvest": [
+      "25",
+      "",
+      "4"
+    ],
+    "time": "",
+    "seasons": [],
+    "type": "Fruits",
+    "profit": [
+      {
+        "level": "Harvest",
+        "standard": "$25",
+        "flat": "$35"
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Coconut Tree",
+    "link": "/wiki/Coconut_Tree",
+    "buy": "800   2",
+    "harvest": [
+      "60",
+      "",
+      "8"
+    ],
+    "time": "",
+    "seasons": [],
+    "type": "Fruits",
+    "profit": [
+      {
+        "level": "Harvest",
+        "standard": "$60",
+        "flat": "$73"
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Orange Tree",
+    "link": "/wiki/Orange_Tree",
+    "buy": "1.00K   2",
+    "harvest": [
+      "80",
+      "",
+      "9"
+    ],
+    "time": "",
+    "seasons": [],
+    "type": "Fruits",
+    "profit": [
+      {
+        "level": "Harvest",
+        "standard": "$80",
+        "flat": "$115"
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Apricot Tree",
+    "link": "/wiki/Apricot_Tree",
+    "buy": "1.50K   3",
+    "harvest": [
+      "60",
+      "",
+      "6"
+    ],
+    "time": "",
+    "seasons": [],
+    "type": "Fruits",
+    "profit": [
+      {
+        "level": "Harvest",
+        "standard": "$60",
+        "flat": "$98"
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "Yearly",
+        "standard": "$120",
+        "flat": "$196"
+      }
+    ]
+  },
+  {
+    "name": "Cherry Tree",
+    "link": "/wiki/Cherry_Tree",
+    "buy": "1.75K   3",
+    "harvest": [
+      "110",
+      "",
+      "10"
+    ],
+    "time": "",
+    "seasons": [],
+    "type": "Fruits",
+    "profit": [
+      {
+        "level": "Harvest",
+        "standard": "$110",
+        "flat": ""
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Fig",
+    "link": "/wiki/Fig",
+    "buy": "3.00K   6",
+    "harvest": [
+      "160",
+      "",
+      "11"
+    ],
+    "time": "",
+    "seasons": [],
+    "type": "Fruits",
+    "profit": [
+      {
+        "level": "Harvest",
+        "standard": "$160",
+        "flat": "$210"
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Pomegranate Tree",
+    "link": "/wiki/Pomegranate_Tree",
+    "buy": "5.00K   10",
+    "harvest": [
+      "125",
+      "",
+      "9"
+    ],
+    "time": "",
+    "seasons": [],
+    "type": "Fruits",
+    "profit": [
+      {
+        "level": "Harvest",
+        "standard": "$125",
+        "flat": "$176"
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Lime Tree",
+    "link": "/wiki/Lime_Tree",
+    "buy": "5.40K   11",
+    "harvest": [
+      "250",
+      "",
+      "13"
+    ],
+    "time": "",
+    "seasons": [],
+    "type": "Fruits",
+    "profit": [
+      {
+        "level": "Harvest",
+        "standard": "$250",
+        "flat": "$291"
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Plum Tree",
+    "link": "/wiki/Plum_Tree",
+    "buy": "5.80K   12",
+    "harvest": [
+      "100",
+      "",
+      "7"
+    ],
+    "time": "",
+    "seasons": [],
+    "type": "Fruits",
+    "profit": [
+      {
+        "level": "Harvest",
+        "standard": "$100",
+        "flat": "$143"
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Mango",
+    "link": "/wiki/Mango",
+    "buy": "6.00K   12",
+    "harvest": [
+      "80",
+      "",
+      "6"
+    ],
+    "time": "",
+    "seasons": [],
+    "type": "Fruits",
+    "profit": [
+      {
+        "level": "Harvest",
+        "standard": "$80",
+        "flat": "$133"
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Nectarine Tree",
+    "link": "/wiki/Nectarine_Tree",
+    "buy": "7.20K   14",
+    "harvest": [
+      "125",
+      "",
+      "8"
+    ],
+    "time": "",
+    "seasons": [],
+    "type": "Fruits",
+    "profit": [
+      {
+        "level": "Harvest",
+        "standard": "$125",
+        "flat": "$177"
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Tamarind",
+    "link": "/wiki/Tamarind",
+    "buy": "7.50K   15",
+    "harvest": [
+      "100",
+      "",
+      "7"
+    ],
+    "time": "",
+    "seasons": [],
+    "type": "Fruits",
+    "profit": [
+      {
+        "level": "Harvest",
+        "standard": "$100",
+        "flat": "$218"
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "Yearly Harvest",
+        "standard": "$400",
+        "flat": "$872"
+      }
+    ]
+  },
+  {
+    "name": "Papaya",
+    "link": "/wiki/Papaya",
+    "buy": "7.70K   15",
+    "harvest": [
+      "175",
+      "",
+      "10"
+    ],
+    "time": "",
+    "seasons": [],
+    "type": "Fruits",
+    "profit": [
+      {
+        "level": "Harvest",
+        "standard": "$175",
+        "flat": "$233"
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Date Palm",
+    "link": "/wiki/Date_Palm",
+    "buy": "8.00K   16",
+    "harvest": [
+      "300",
+      "",
+      "16"
+    ],
+    "time": "",
+    "seasons": [],
+    "type": "Fruits",
+    "profit": [
+      {
+        "level": "Harvest",
+        "standard": "$300",
+        "flat": "$376"
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Quince",
+    "link": "/wiki/Quince",
+    "buy": "9.00K   18",
+    "harvest": [
+      "340",
+      "",
+      "17"
+    ],
+    "time": "",
+    "seasons": [],
+    "type": "Fruits",
+    "profit": [
+      {
+        "level": "Harvest",
+        "standard": "$340",
+        "flat": "$442"
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Durian",
+    "link": "/wiki/Durian_Tree",
+    "buy": "12.50K   25",
+    "harvest": [
+      "350",
+      "",
+      "20"
+    ],
+    "time": "",
+    "seasons": [],
+    "type": "Fruits",
+    "profit": [
+      {
+        "level": "Harvest",
+        "standard": "$",
+        "flat": "$434"
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Lychee",
+    "link": "/wiki/Lychee",
+    "buy": "10.00K   20",
+    "harvest": [
+      "190",
+      "",
+      "12"
+    ],
+    "time": "",
+    "seasons": [],
+    "type": "Fruits",
+    "profit": [
+      {
+        "level": "Harvest",
+        "standard": "$190",
+        "flat": "$278"
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Tangerine Tree",
+    "link": "/wiki/Tangerine_Tree",
+    "buy": "11.00K   22",
+    "harvest": [
+      "210",
+      "",
+      "13"
+    ],
+    "time": "",
+    "seasons": [],
+    "type": "Fruits",
+    "profit": [
+      {
+        "level": "Harvest",
+        "standard": "$210",
+        "flat": "$295"
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Yuzu Tree",
+    "link": "/wiki/Yuzu_Tree",
+    "buy": "12.00K   24",
+    "harvest": [
+      "225",
+      "",
+      "13"
+    ],
+    "time": "",
+    "seasons": [],
+    "type": "Fruits",
+    "profit": [
+      {
+        "level": "Harvest",
+        "standard": "$225",
+        "flat": "$336"
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Starfruit Tree",
+    "link": "/wiki/Starfruit_Tree",
+    "buy": "15.00K   30",
+    "harvest": [
+      "175",
+      "",
+      "12"
+    ],
+    "time": "",
+    "seasons": [],
+    "type": "Fruits",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "175",
+        "flat": ""
+      },
+      {
+        "level": "25",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "50",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "75",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "100",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "125",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "150",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "175",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "200",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "225",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "",
+        "flat": "663"
+      }
+    ]
+  },
+  {
+    "name": "Dragon Fruit Cactus",
+    "link": "/wiki/Dragon_Fruit_Cactus",
+    "buy": "12.50K   25",
+    "harvest": [
+      "360",
+      "",
+      "21"
+    ],
+    "time": "",
+    "seasons": [],
+    "type": "Fruits",
+    "profit": [
+      {
+        "level": "Harvest",
+        "standard": "$360",
+        "flat": "$436"
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,433 @@
+[
+  {
+    "name": "Melon",
+    "link": "/wiki/Melon",
+    "buy": "1.00K 2",
+    "harvest": [
+      "1.06K",
+      "5"
+    ],
+    "time": "10m",
+    "seasons": [
+      "Fall",
+      "Winter"
+    ],
+    "type": "Fruits",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "1.06k",
+        "flat": "1.05k"
+      },
+      {
+        "level": "25",
+        "standard": "1.08k",
+        "flat": "1.06k"
+      },
+      {
+        "level": "50",
+        "standard": "1.10k",
+        "flat": "1.08k"
+      },
+      {
+        "level": "75",
+        "standard": "1.12k",
+        "flat": "1.09k"
+      },
+      {
+        "level": "100",
+        "standard": "1.13k",
+        "flat": "1.11k"
+      },
+      {
+        "level": "125",
+        "standard": "1.15k",
+        "flat": "1.12k"
+      },
+      {
+        "level": "150",
+        "standard": "1.17k",
+        "flat": "1.14k"
+      },
+      {
+        "level": "175",
+        "standard": "1.19k",
+        "flat": "1.15k"
+      },
+      {
+        "level": "200",
+        "standard": "1.21k",
+        "flat": "1.17k"
+      },
+      {
+        "level": "225",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Pineapple",
+    "link": "/wiki/Pineapple",
+    "buy": "5.50K 11",
+    "harvest": [
+      "7.00K",
+      "115"
+    ],
+    "time": "16h",
+    "seasons": [
+      "Summer"
+    ],
+    "type": "Fruits",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "7.00k",
+        "flat": "6.70k"
+      },
+      {
+        "level": "25",
+        "standard": "7.54k",
+        "flat": "7.13k"
+      },
+      {
+        "level": "50",
+        "standard": "8.10k",
+        "flat": "7.58k"
+      },
+      {
+        "level": "75",
+        "standard": "8.65k",
+        "flat": "8.02k"
+      },
+      {
+        "level": "100",
+        "standard": "9.21k",
+        "flat": "8.47k"
+      },
+      {
+        "level": "125",
+        "standard": "9.77k",
+        "flat": "8.92k"
+      },
+      {
+        "level": "150",
+        "standard": "10.33k",
+        "flat": "9.37k"
+      },
+      {
+        "level": "175",
+        "standard": "10.89k",
+        "flat": "9.81k"
+      },
+      {
+        "level": "200",
+        "standard": "11.45k",
+        "flat": "10.26k"
+      },
+      {
+        "level": "225",
+        "standard": "12.01k",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "12.56k",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Kiwifruit",
+    "link": "/wiki/Kiwifruit",
+    "buy": "1.00K 2",
+    "harvest": [
+      "1.60K",
+      "86"
+    ],
+    "time": "1d",
+    "seasons": [
+      "Spring"
+    ],
+    "type": "Fruits",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "1.60k",
+        "flat": "1.48k"
+      },
+      {
+        "level": "25",
+        "standard": "1.81k",
+        "flat": "1.65k"
+      },
+      {
+        "level": "50",
+        "standard": "2.03k",
+        "flat": "1.83k"
+      },
+      {
+        "level": "75",
+        "standard": "2.26k",
+        "flat": "2.01k"
+      },
+      {
+        "level": "100",
+        "standard": "2.48k",
+        "flat": "2.18k"
+      },
+      {
+        "level": "125",
+        "standard": "2.70k",
+        "flat": "2.36k"
+      },
+      {
+        "level": "150",
+        "standard": "2.92k",
+        "flat": "2.54k"
+      },
+      {
+        "level": "175",
+        "standard": "3.14k",
+        "flat": "2.71k"
+      },
+      {
+        "level": "200",
+        "standard": "3.36k",
+        "flat": "2.89k"
+      },
+      {
+        "level": "225",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Watermelon",
+    "link": "/wiki/Watermelon",
+    "buy": "250",
+    "harvest": [
+      "800",
+      "95"
+    ],
+    "time": "2d",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "type": "Fruits",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "800",
+        "flat": "692"
+      },
+      {
+        "level": "25",
+        "standard": "994",
+        "flat": "848"
+      },
+      {
+        "level": "50",
+        "standard": "1.20k",
+        "flat": "1.01k"
+      },
+      {
+        "level": "75",
+        "standard": "1.40k",
+        "flat": "1.17k"
+      },
+      {
+        "level": "100",
+        "standard": "1.60k",
+        "flat": "1.33k"
+      },
+      {
+        "level": "125",
+        "standard": "1.80k",
+        "flat": "1.50k"
+      },
+      {
+        "level": "150",
+        "standard": "2.01k",
+        "flat": "1.66k"
+      },
+      {
+        "level": "175",
+        "standard": "2.21k",
+        "flat": "1.82k"
+      },
+      {
+        "level": "200",
+        "standard": "2.41k",
+        "flat": "1.98k"
+      },
+      {
+        "level": "225",
+        "standard": "2.61k",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "2.85k",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Strawberry",
+    "link": "/wiki/Strawberry",
+    "buy": "800 2",
+    "harvest": [
+      "1.50K",
+      "105"
+    ],
+    "time": "1d 12h",
+    "seasons": [
+      "Summer",
+      "Fall"
+    ],
+    "type": "Fruits",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "1.50k",
+        "flat": "1.36k"
+      },
+      {
+        "level": "25",
+        "standard": "1.75k",
+        "flat": "1.56k"
+      },
+      {
+        "level": "50",
+        "standard": "2.01k",
+        "flat": "1.77k"
+      },
+      {
+        "level": "75",
+        "standard": "2.27k",
+        "flat": "1.98k"
+      },
+      {
+        "level": "100",
+        "standard": "2.53k",
+        "flat": "2.18k"
+      },
+      {
+        "level": "125",
+        "standard": "2.78k",
+        "flat": "2.39k"
+      },
+      {
+        "level": "150",
+        "standard": "3.04k",
+        "flat": "2.60k"
+      },
+      {
+        "level": "175",
+        "standard": "3.30k",
+        "flat": "2.80k"
+      },
+      {
+        "level": "200",
+        "standard": "3.56k",
+        "flat": "3.01k"
+      },
+      {
+        "level": "225",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  },
+  {
+    "name": "Physalis",
+    "link": "/wiki/Physalis",
+    "buy": "8.00K 16",
+    "harvest": [
+      "11.00K",
+      "170"
+    ],
+    "time": "1d",
+    "seasons": [
+      "Summer"
+    ],
+    "type": "Fruits",
+    "profit": [
+      {
+        "level": "1",
+        "standard": "11.00k",
+        "flat": "10.40k"
+      },
+      {
+        "level": "25",
+        "standard": "12.08k",
+        "flat": "11.26k"
+      },
+      {
+        "level": "50",
+        "standard": "13.20k",
+        "flat": "12.16k"
+      },
+      {
+        "level": "75",
+        "standard": "14.32k",
+        "flat": "13.06k"
+      },
+      {
+        "level": "100",
+        "standard": "15.44k",
+        "flat": "13.95k"
+      },
+      {
+        "level": "125",
+        "standard": "16.56k",
+        "flat": "14.85k"
+      },
+      {
+        "level": "150",
+        "standard": "17.65k",
+        "flat": "15.75k"
+      },
+      {
+        "level": "175",
+        "standard": "18.80k",
+        "flat": "16.65k"
+      },
+      {
+        "level": "200",
+        "standard": "19.92k",
+        "flat": "17.54k"
+      },
+      {
+        "level": "225",
+        "standard": "",
+        "flat": ""
+      },
+      {
+        "level": "250",
+        "standard": "",
+        "flat": ""
+      }
+    ]
+  }
+]
