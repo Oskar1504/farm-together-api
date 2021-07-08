@@ -31,6 +31,8 @@ router.get('/ft/list/:type',async (req, res, next) => {
                     if(type === "Animals"){
                         query = "td a"
                     }
+                    
+                    //TODO img grabben as base64
 
                     let t = []
                     table.querySelectorAll(query).forEach(flower => {
@@ -103,6 +105,8 @@ router.get('/ft/item/:name',async (req, res, next) => {
                             case th.includes("Resource"):
                                 crop.type = row.children[1].children[0].children[0].alt.split(".")[0]
                                 break;
+                                
+                                //requirements grabben maybe mit von hinten anfangen bis unluck requirements
                         }
                     }
                 })
