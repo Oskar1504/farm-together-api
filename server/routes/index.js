@@ -196,10 +196,39 @@ router.get('/ft/listItems/:type/:type2',async (req, res, next) => {
                     res.sendStatus(500)
                 })
         }
-            fs.writeFile(`server/scrapped_data/${type}_${type2}.json`, JSON.stringify(output), function (err) {
-                if (err) throw err;
-                res.send(JSON.stringify(output))
-            });
+        //needs to be tested
+        output.forEach(item =>{
+            let a = convertBuy(item.buy),
+                b = convertTime(item.time),
+                c = convertBuy(item.harvest.join(" "))
+
+            item.buyInt = a[0]
+            item.buyExpInt = a[1] ? a[1] : 0
+
+            item.timeInt = b
+
+            item.harvest = item.harvest.join(" ")
+            item.harvestInt = c[0]
+            item.harvestExpInt = c[1] ? c[1] : 0
+
+            item.profit.forEach(lvl =>{
+                let sInt =  convertBuy(lvl.standard)[0],
+                    fInt =  convertBuy(lvl.flat)[0]
+                lvl.standardInt = sInt ? sInt : 0
+                lvl.flatInt = fInt ? fInt : 0
+            })
+
+            item.profitPerPlant = item.harvestInt - item.buyInt
+            item.profitPerHour = item.profitPerPlant/item.timeInt
+            item.profit = []
+
+
+        })
+        
+        fs.writeFile(`server/scrapped_data/${type}_${type2}.json`, JSON.stringify(output), function (err) {
+            if (err) throw err;
+            res.send(JSON.stringify(output))
+        });
 
     }catch(e){
         console.log(e)
@@ -220,6 +249,33 @@ router.get('/ft/listItems/:type',async (req, res, next) => {
 });
 
 module.exports = router;
+
+function convertTime(s) {
+    let ts = s.split(" "),
+    o = 0
+
+    ts.forEach(time => {
+        switch(true){
+            case time.includes("m"):
+            o += parseInt(time.split("m")[0])
+            break
+        case time.includes("h"):
+            o += parseInt(time.split("h")[0]) * 60
+            break
+        case time.includes("d"):
+            o += parseInt(time.split("d")[0]) * 1440
+            break
+        }
+    })
+
+    return o/60
+}
+function convertBuy(s) {
+    let buy = parseInt(s.split(" ")[0].replace(",",".").replace(".","").replace("k","K").replace("K","0")),
+    exp = parseInt(s.split(" ")[1])
+
+    return [buy,exp]
+}
 
 function chunk(arr, chunkSize) {
     if (chunkSize <= 0) throw "Invalid chunk size";
