@@ -1,0 +1,18 @@
+const express = require('express');
+
+const router = express.Router();
+
+
+Array("rechner","r","rächner","calc","calculator","c","").forEach(path =>{
+    router.get("/"+path,async (req, res, next) => {
+        try{
+            res.redirect("rechner.html")
+        }catch(e){
+            console.log(e)
+            res.sendStatus(500)
+        }
+    });
+})
+
+
+module.exports = router;
