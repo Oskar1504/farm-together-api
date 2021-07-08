@@ -1,10 +1,11 @@
 # farm-together-api
 So i wanted to build an farm together calculator and needed data from all crops. I found just outdated lists so i build an small api which generates files by scraping the fandom farm together wiki.
 
-Consider downloading the  scapped_data.zip  .
-This zip includes all crops and flowers. Since tree's havent a unifies page layout (wiki pages) the scrapper wont work properly.(Modify server/routes/index.js to make changes)
+A live version with current data is hosted [her http://projectlifetime.de/farmtogether/](http://projectlifetime.de/farmtogether/).
+includes sorting according to all values that the crops have.
+contains a lot of filter options.(season, growtime, crop types, exclude crops, hide table cols)
 
-**Just use the already scrapped data so u dont kill the fandom wiki server. Cause scraping is not welcomed.**
+**Consider using the already scrapped data so u dont kill the fandom wiki server. Cause scraping is not welcomed.**
 
 **this file contains all crops with image and data from fandom wiki =>  [all_Crops.json](./server/scrapped_data/all_Crops.json)**
 
