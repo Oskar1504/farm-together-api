@@ -1,7 +1,8 @@
 # farm-together-api
 So i wanted to build an farm together calculator and needed data from all crops. I found just outdated lists so i build an small api which generates files by scraping the fandom farm together wiki.
 
-A live version with current data is hosted [her http://projectlifetime.de/farmtogether/](http://projectlifetime.de/farmtogether/).
+A live version with current data is hosted at [http://projectlifetime.de/farmtogether/](http://projectlifetime.de/farmtogether/).
+
 includes sorting according to all values that the crops have.
 contains a lot of filter options.(season, growtime, crop types, exclude crops, hide table cols)
 
