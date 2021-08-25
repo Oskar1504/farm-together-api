@@ -5,6 +5,7 @@ i needed the images for some example websites to teach children web development
 
 **Consider using the already scrapped data so u dont kill the serebii server. Cause scraping is not welcomed.**
 
+**https://github.com/Oskar1504/farm-together-api/blob/pokemon-grab/public/pokemon.zip contains all data and images**
 ## Usage
 
 the public folder contains an example using vue.js, bootstrap 5 and the scraped data do display an pokedox overview
