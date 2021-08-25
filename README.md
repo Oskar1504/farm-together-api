@@ -1,4 +1,4 @@
-# farm-together-api
+# pokemon scrapping
 So i wanted to build an farm together calculator and needed data from all crops. I found just outdated lists so i build an small api which generates files by scraping the fandom farm together wiki.
 
 A live version with current data is hosted at [http://projectlifetime.de/farmtogether/](http://projectlifetime.de/farmtogether/).

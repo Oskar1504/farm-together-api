@@ -2,75 +2,27 @@
 var app = new Vue({
     el: '#app',
     data: {
-        rawCrops: [],
-        visibleCols: ["image","name","time","buyInt","harvestInt","profitPerPlant","profitPerHour"],
-        allowedCols:["image","name","type","time","timeInt","buyInt","buyExpInt","harvestInt","harvestExpInt","profitPerPlant","profitPerHour","seasons","requirements"],
-        seasons:["Spring","Summer","Fall","Winter"],
-        excludedCrops:[],
-        excludedTypes:[],
-        excludedSeasons:[]
+        gens:[],
+        visibleGen:0
     },
     methods: {
-        addVisibleCol: function(col){
-            if(this.visibleCols.includes(col)){
-                this.visibleCols.remove(col)
-            }else{
-                this.visibleCols.push(col)
-            }
+        setVisibleGen:function (index) {
+            this.visibleGen = index
         },
-        excludeCrop: function(cropname) {
-            if (this.excludedCrops.includes(cropname)) {
-                this.excludedCrops.remove(cropname)
-            } else {
-                this.excludedCrops.push(cropname)
-            }
+        setActive: function (index) {
+            if(index == this.visibleGen){return 'active2'}
         },
-        excludeType: function(type) {
-            if (this.excludedTypes.includes(type)) {
-                this.excludedTypes.remove(type)
-            } else {
-                this.excludedTypes.push(type)
-            }
-        },
-        excludeSeason: function(type) {
-            if (this.excludedSeasons.includes(type)) {
-                this.excludedSeasons.remove(type)
-            } else {
-                this.excludedSeasons.push(type)
-            }
-        },
-        sortCrops: function(art) {
-            this.crops.sort(dynamicSort(art))
+        getImage : function (url){
+            return "pokemon/gen-" + (this.visibleGen+1) + "/images/"+url.split("/").reverse()[0]
         }
     },
     created() {
-        fetch('/api/getCrops')
+        fetch('pokemon/all.json')
             .then(response => response.json())
-            .then(data => this.rawCrops = data);
+            .then(data => this.gens = data);
     },
     computed:{
-        crops: function(){
-            this.rawCrops.forEach(crop=>{
-                // musste ich machen weil ich oben iwie nutze und der dann ncohaml hier rein gegeangen ist
-                if(Array.isArray(crop.seasons)){
-                    crop.seasons = crop.seasons.join(",")
-                    crop.type = crop.type.replace("link=https://farmtogether","Event")
 
-                    try{crop.timeInt = crop.timeInt.toFixed(2)}catch(e){}
-                    try{crop.profitPerHour = crop.profitPerHour.toFixed(2)}catch(e){}
-                }
-            })
-            return this.rawCrops
-        },
-        types: function () {
-            let o = []
-            this.rawCrops.forEach(crop=>{
-                if(!o.includes(crop.type) && crop.type != ""){
-                    o.push(crop.type)
-                }
-            })
-            return o
-        }
     }
 });
 
